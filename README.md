@@ -16,9 +16,8 @@ The platform helps students discover suitable training opportunities, submit the
 * ⭐ Receive feedback and ratings after training
 * 📱 User-friendly mobile interface
 ## 🎥 Project Demo
-Watch the project demo:
 
-[▶️ Watch the Demo on YouTube]( https://youtu.be/G0_bX3u9tb4?si=4VEbk0pv5iGUH012 )
+[![Watch the Demo](demo-cover.png)](https://youtu.be/G0_bX3u9tb4?si=4VEbk0pv5iGUH012)
 🛠️ Technologies
 
 * Flutter
