@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "895778859102",
+    "project_id": "train-link-cfaf6",
+    "storage_bucket": "train-link-cfaf6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895778859102:android:ddb41125dc73ed296e6ccf",
+        "android_client_info": {
+          "package_name": "com.example.train_link"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyXJ_cvOi7EDaOiXIZefMBNugAwy99FqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
