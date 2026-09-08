@@ -18,6 +18,7 @@ The platform helps students discover suitable training opportunities, submit the
 ## 🎥 Project Demo
 
 [![Watch the Demo](demo-cover.png.png)](https://youtu.be/G0_bX3u9tb4?si=4VEbk0pv5iGUH012)
+
 🛠️ Technologies
 
 * Flutter
